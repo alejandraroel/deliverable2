@@ -1,0 +1,11 @@
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.0/Deliverable2
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.0/Deliverable2.deps.json
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.0/Deliverable2.runtimeconfig.json
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.0/Deliverable2.runtimeconfig.dev.json
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.0/Deliverable2.dll
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.0/Deliverable2.pdb
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.0/Deliverable2.csprojAssemblyReference.cache
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.0/Deliverable2.AssemblyInfoInputs.cache
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.0/Deliverable2.AssemblyInfo.cs
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.0/Deliverable2.dll
+/Users/alejandraroel/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.0/Deliverable2.pdb
